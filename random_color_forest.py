@@ -165,6 +165,6 @@ with col1:
     with st.spinner(""):
         st.pyplot(plt.gcf())
 
-        st.markdown("[**CIC 32**](https://www.imaging.org/IST/IST/Conferences/CIC/CIC2024/CIC_Home.aspx) &mdash; [**Courses & Workshops**](https://www.imaging.org/IST/Conferences/CIC/CIC2024/CIC_Home.aspx?WebsiteKey=6d978a6f-475d-46cc-bcf2-7a9e3d5f8f82&8a93a38c6b0c=3#8a93a38c6b0c) &mdash; **[Comments & Questions?]()** ")
+        st.markdown("[**CIC 32**](https://www.imaging.org/IST/IST/Conferences/CIC/CIC2024/CIC_Home.aspx) &mdash; [**Courses & Workshops**](https://www.imaging.org/IST/Conferences/CIC/CIC2024/CIC_Home.aspx?WebsiteKey=6d978a6f-475d-46cc-bcf2-7a9e3d5f8f82&8a93a38c6b0c=3#8a93a38c6b0c) &mdash; **[Comments & Questions?](https://www.linkedin.com/feed/update/urn:li:activity:7251414812268634112/?actorCompanyId=104756822)** ")
 
 
