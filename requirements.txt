@@ -1,0 +1,5 @@
+streamlit ==  1.37.1
+matplotlib == 3.9.2
+numpy == 1.26.4
+colour-science == 0.4.4
+scikit-learn == 1.5.1
